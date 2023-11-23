@@ -6,4 +6,5 @@
      - estou me densolvenvendo no JavaScrip
        Utilizo esse espaço para minha organização e compartilhamento do meus projetos desnvolvimentos
 
- PRA ENTRAR EM CONTATO
+ PRA ENTRAR EM CONTATO COMIGO
+  DHARA.RODRIGUES@ESCOLA.PR.GOV.BR
