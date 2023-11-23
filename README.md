@@ -7,4 +7,5 @@
      _Utilizo esse espaço para minha organização e compartilhamento do meus projetos desnvolvimentos
 
  PRA ENTRAR EM CONTATO COMIGO
-  DHARA.RODRIGUES@ESCOLA.PR.GOV.BR
+  DHARAFERNANDA1
+  @DHARAFERNANDA1GMAIL.COM
