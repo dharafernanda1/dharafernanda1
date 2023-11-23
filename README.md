@@ -2,9 +2,9 @@
 
     Meu nome é Dhara fernanda
 
-     - estou estudando na Alura
-     - estou me densolvenvendo no JavaScrip
-       Utilizo esse espaço para minha organização e compartilhamento do meus projetos desnvolvimentos
+     _ Estou estudando na Alura
+     _ Estou me densolvenvendo no JavaScrip
+     _Utilizo esse espaço para minha organização e compartilhamento do meus projetos desnvolvimentos
 
  PRA ENTRAR EM CONTATO COMIGO
   DHARA.RODRIGUES@ESCOLA.PR.GOV.BR
